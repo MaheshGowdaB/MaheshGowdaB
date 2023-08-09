@@ -12,7 +12,7 @@
 
 Thanks for stopping by! Let's build something amazing together. 💡🚀
 
-
+[![](https://visitcount.itsvg.in/api?id=MaheshGowdaB&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesh_gowda_3501) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mahesh3501) 
 
@@ -21,12 +21,7 @@ Thanks for stopping by! Let's build something amazing together. 💡🚀
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshGowdaB&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✨ Quote: 
-### “If debugging is the process of removing software bugs, then programming must be the process of putting them in” ...
----
-[![](https://visitcount.itsvg.in/api?id=MaheshGowdaB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
