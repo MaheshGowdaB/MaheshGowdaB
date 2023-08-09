@@ -1,22 +1,14 @@
 # 💫 About Me:
-## Hi there! 👋
+## Hi there! 👋 I'm **Mahesh**,
 
-I'm **Mahesh**, an aspiring Software Developer.
-
-Eager to kickstart my career and contribute to the tech industry.
-
-### 🌱 What I'm Currently Up To
-
-I'm currently learning **MongoDB | ExpresJS | ReactJS | NodeJS** 
-
-### 📫 Let's Connect
-
-I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me on LinkedIn, Email or Instagram.  
+- 🌱 Eager to kickstart my career and contribute to the tech industry.
+- 🚀 Passionate about coding, problem-solving, and continuous learning.
+- 🔭 I'm currently learning **MongoDB | ExpresJS | ReactJS | NodeJS**
+- 📫 How to reach me: <a href="mailto:maheshgowda3501@gmail.com">maheshgowda3501@gmail.com</a>
 
 ### 🌟 Fun Facts
 
-- When I'm not coding, you can find me [Hobbies or Interests Outside of Tech].
-- I'm a firm believer in [Your Personal Motto or Philosophy].
+- When I'm not coding, you can find me Swimming, Gym, Drawing.
 
 Thanks for stopping by! Let's build something amazing together. 💡🚀
 
@@ -30,9 +22,6 @@ Thanks for stopping by! Let's build something amazing together. 💡🚀
 ![](https://github-readme-stats.vercel.app/api?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshGowdaB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaheshGowdaB&limit=5&theme=dark&combine_all_yearly_contributions=true)
