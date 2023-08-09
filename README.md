@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshgowdab&label=Profile%20views&color=0e75b6&style=flat" alt="maheshgowdab" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MongoDB | ExpressJS | ReactJS | NodeJS**
 
 - 📫 How to reach me **maheshgowda3501@gmail.com**
 
