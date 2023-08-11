@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi there! 👋 I'm **Mahesh**,
+
+# Hi there! 👋 I'm **Mahesh**,
 
 - 🌱 Eager to kickstart my career and contribute to the tech industry.
 - 🚀 Passionate about coding, problem-solving, and continuous learning.
