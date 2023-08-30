@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm **Mahesh**,
 
 - 🌱 Eager to kickstart my career and contribute to the tech industry.
