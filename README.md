@@ -20,5 +20,4 @@ Thanks for stopping by! Let's build something amazing together. 💡🚀
 ![](https://github-readme-stats.vercel.app/api?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshGowdaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
