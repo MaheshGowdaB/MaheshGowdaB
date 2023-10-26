@@ -2,7 +2,7 @@
 
 - 🌱 Eager to kickstart my career and contribute to the tech industry.
 - 🚀 Passionate about coding, problem-solving, and continuous learning.
-- 🔭 I'm currently learning **MongoDB | ExpresJS | ReactJS | NodeJS**
+- 🔭 I'm currently learning **ReactJS**
 - 📫 How to reach me: <a href="mailto:maheshgowda3501@gmail.com">maheshgowda3501@gmail.com</a>
 
 Thanks for stopping by! Let's build something amazing together. 💡🚀
